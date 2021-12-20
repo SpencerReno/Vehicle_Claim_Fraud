@@ -13,6 +13,7 @@ This graph shows the different age groups of the policyholder. Knowing that a lo
 
 ## Fraud Count for Each Month Over 3 Years
 This Graph shows the comparision of 3 years for each separate months. It seams as if 1996 was an odd year as most of the time when the other two years spike 1996 takes a dip and visversa. however comparing 1994 and 1995 they are very similar interms of spiking and dips in the fraud count. One good thing to see from this graph is that over the course of the 3 years the fadulant claims have decreased by a good margin. The highest month for 95 and 94 was the lowest month for 96. 
+
 ![3 year Fruad count](https://user-images.githubusercontent.com/88803320/146809119-22b6d9a1-0f6d-4276-9380-3fc04a3b82b8.png)
 
 ## Machine Learning
