@@ -16,4 +16,14 @@ This Graph shows the comparision of 3 years for each separate months. It seams a
 
 ![3 year Fruad count](https://user-images.githubusercontent.com/88803320/146809119-22b6d9a1-0f6d-4276-9380-3fc04a3b82b8.png)
 
+
+## Correlation 
+![corr](https://user-images.githubusercontent.com/88803320/147151370-7c576902-efac-41f0-830d-4db3053fd99a.png)
+
+## Files Reported Based On Witness
+It's more likely that there won't be a witness present. However, 7 more files were reported without a witness present. In most cases, no file will be reported regardless of a witness. 15,000 cases occurred without a witness present whereas 400 cases occurred with a witness present. 
+
+![reports](https://user-images.githubusercontent.com/88803320/147151777-041f49bc-bcfa-4e25-97ee-607d1bf0c4ec.png)
+
+
 ## Machine Learning
