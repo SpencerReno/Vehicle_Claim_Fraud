@@ -27,3 +27,4 @@ It's more likely that there won't be a witness present. However, 7 more files we
 
 
 ## Machine Learning
+Since this is a classification prediction I used Kneighbors classifier to determined if the claim was fraudlent or not based on the target column. First running a base knn model it produced good scores both for the training and testing in the 90s. After, I ran a grid search to find the best parameters for the model. It didnt improve much other than the training score going up from a 93 to a 94 and the testing score stayed with in the 93's.
