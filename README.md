@@ -47,3 +47,5 @@ I figured if there was any way to get higher scores than in the low 90s it would
 Train Score: 0.9416\
 Testing Score: 0.9364
 
+#### Final thoughts 
+out of all the results with each machine learning model all of them had testing scores in the 93s and testing scores in the 94s so the best option in this case is to go with the fastest run time. The runtime for the knn model as 0.6s, runtime for Random forest was a 1.2s, and runtime for the xgboost was 0.5s. With all these results the best model to go with is the KNN model having a fast runtime and the highest of all model scores for testing.
