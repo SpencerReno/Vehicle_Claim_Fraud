@@ -27,4 +27,23 @@ It's more likely that there won't be a witness present. However, 7 more files we
 
 
 ## Machine Learning
-Since this is a classification prediction I used Kneighbors classifier to determined if the claim was fraudlent or not based on the target column. First running a base knn model it produced good scores both for the training and testing in the 90s. After, I ran a grid search to find the best parameters for the model. It didnt improve much other than the training score going up from a 93 to a 94 and the testing score stayed with in the 93's.
+To determine if a claim was fraudulent or not I used some machine learning models on the target column of the data. Three models were used in comparison to each other KNN, Random Forest, XGBoost. 
+
+### KNN Classification Model
+First running a base knn model produced good scores both for the training and testing in the low 90s. After, I ran a grid search to find the best parameters for the model. It didn't improve much other than the training score going up from a 93 to a 94 and the testing score stayed within the 93s.
+
+Train Score: 0.9409
+Testing Score: 0.9377
+
+### Random Forest Model 
+To keep some checks within the models I ran a random forest model to compare to the knn. with similar results, the base model gave scores in the low 90s for the train and testing. After running the grid search the testing score increased from low 93s to high 93s. Not a drastic change that's worth noting.
+
+Train Score: 0.9423
+Testing Score: 0.9369
+
+### XGBoost Model
+I figured if there was any way to get higher scores than in the low 90s it would be with a boosting model. With the base boosting model the testing scores started in the high 93s and the training in the low 94s. Just like the other models, I ran a gridsearch and the results after left no change.
+
+Train Score: 0.9416
+Testing Score: 0.9364
+
