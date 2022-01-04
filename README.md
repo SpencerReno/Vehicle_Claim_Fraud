@@ -32,18 +32,18 @@ To determine if a claim was fraudulent or not I used some machine learning model
 ### KNN Classification Model
 First running a base knn model produced good scores both for the training and testing in the low 90s. After, I ran a grid search to find the best parameters for the model. It didn't improve much other than the training score going up from a 93 to a 94 and the testing score stayed within the 93s.
 
-Train Score: 0.9409
+Train Score: 0.9409\
 Testing Score: 0.9377
 
 ### Random Forest Model 
 To keep some checks within the models I ran a random forest model to compare to the knn. with similar results, the base model gave scores in the low 90s for the train and testing. After running the grid search the testing score increased from low 93s to high 93s. Not a drastic change that's worth noting.
 
-Train Score: 0.9423
+Train Score: 0.9423\
 Testing Score: 0.9369
 
 ### XGBoost Model
 I figured if there was any way to get higher scores than in the low 90s it would be with a boosting model. With the base boosting model the testing scores started in the high 93s and the training in the low 94s. Just like the other models, I ran a gridsearch and the results after left no change.
 
-Train Score: 0.9416
+Train Score: 0.9416\
 Testing Score: 0.9364
 
