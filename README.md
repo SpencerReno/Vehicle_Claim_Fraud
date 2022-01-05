@@ -8,7 +8,8 @@ The data contains information from three years 1994-1996. This first graph shows
 
 ## Policy Holders
 This graph shows the different age groups of the policyholder. Knowing that a lot of times lower age groups will likely not have their own car as they can use their parents this explains why the age groups 16-25 are very low compare to the other age groups. With the age group, 26-30 is where the 1st incline begins from this we can gather that a lot of people will get their first car around that age group and by 31 to 35 most people have their own car. The number of policyholders start to decline after this could be due to several things such as age, marital status, work location, etc. When people get older they are less likely to drive around since they might have kids or someone to do that for them. A lot of times too some people, when they are married, will just have one car for the entire family which will save money, but lower the number of people that are on the policy. Also, people's work locations can change if you work close to home or work from home you are less likely to need a car as transportation is easier and not needed as much. 
-![poclicy holders](https://user-images.githubusercontent.com/88803320/146809114-54f866b7-870d-44ff-8e29-fe51f11551fe.png)
+
+![policy holders](https://user-images.githubusercontent.com/88803320/148271630-77976774-be15-41d8-9665-df79cf2912f3.png)
 
 
 ## Fraud Count for Each Month Over 3 Years
@@ -23,7 +24,7 @@ This Graph shows the comparision of 3 years for each separate months. It seams a
 ## Files Reported Based On Witness
 It's more likely that there won't be a witness present. However, 7 more files were reported without a witness present. In most cases, no file will be reported regardless of a witness. 15,000 cases occurred without a witness present whereas 400 cases occurred with a witness present. 
 
-![reports](https://user-images.githubusercontent.com/88803320/147151777-041f49bc-bcfa-4e25-97ee-607d1bf0c4ec.png)
+![reports](https://user-images.githubusercontent.com/88803320/148271670-10feb864-0622-45eb-b0fb-00e13c08f90b.png)
 
 
 ## Machine Learning
